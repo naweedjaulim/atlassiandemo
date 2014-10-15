@@ -2,3 +2,4 @@ this is a test
 
 added Issue ID from Jira
 new test
+added username global variable in git
